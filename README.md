@@ -1,4 +1,4 @@
-# Data-Online-Retail
+# Tata-Online-Retail
  In today’s fast-evolving e-commerce landscape, businesses rely on data-driven strategies to understand customer behavior, optimize sales performance, and improve operational efficiency.
 By leveraging Microsoft Excel, I was able to extract key insights that reveal trends in revenue, customer engagement, and geographic sales performance. Let’s dive into the major findings from this analysis.
 
